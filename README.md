@@ -71,13 +71,12 @@ Project Structure
 
 Setup Instructions
 
-Clone the Repository:
-git clone https://github.com/your-username/amazon-fine-food-reviews-sentiment-analysis.git
+Clone the Repository : git clone https://github.com/Shusitsuyel/AmazoonFineFoodReviewSentimentAnalysis.git
 cd amazon-fine-food-reviews-sentiment-analysis
 
 
 Download the Dataset:
-
+Kaggle Link for Dataset : https://www.kaggle.com/code/laowingkin/amazon-fine-food-review-sentiment-analysis?select=Reviews.csv
 Download Reviews.csv from the Kaggle link above.
 Place it in the project root directory.
 
